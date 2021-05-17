@@ -27,17 +27,17 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📜 User Manual 📜", url="https://telegra.ph/Daisy-X-04-19"
+                        "📜 User Manual 📜", url="https://telegra.ph/Ongaku-Robot-05-15"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "👨‍💻 Updates 👨‍💻", url="https://t.me/daisyxupdates"
+                        "👨‍💻 Updates 👨‍💻", url="https://t.me/OngakuUpdates"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Support Chat 🎙️", url="https://t.me/DaisySupport_Official"
+                        "Support Chat 🎙️", url="https://t.me/OngakuSupport"
                     )
                 ],
             ]
@@ -54,7 +54,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎙️ Support Group 🎙️", url="https://t.me/daisysupport_Official"
+                        "🎙️ Support Group 🎙️", url="OngakuSupport"
                     )
                 ]
             ]
